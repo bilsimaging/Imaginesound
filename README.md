@@ -28,7 +28,7 @@ For support or contributions, reach out at [contact@bilsimaging.com](mailto:cont
 ## Stay Connected
 Keep up with our latest ventures and updates:
 - Follow us on [Twitter](https://twitter.com/bilsimaging)
-- Subscribe to our [YouTube Channel](https://www.youtube.com/bilsimaging)
+- Subscribe to our [YouTube Channel](https://www.youtube.com/channel/UCdDH7T3oa8YMPFV5e79skaA/featured)
 
 Thank you for stepping into the "Imagine Sound! Where Your Images Revived" experience. Prepare to unlock the symphonies hidden within your images!
 
