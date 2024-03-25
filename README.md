@@ -33,4 +33,4 @@ Keep up with our latest ventures and updates:
 Thank you for stepping into the "Imagine Sound! Where Your Images Revived" experience. Prepare to unlock the symphonies hidden within your images!
 
 ---
-Explore more astounding sound effects by visiting our [YouTube channel](https://www.youtube.com/playlist?list=PLwEbW4bdYBSDe6qAJRFiWGyHSW-JR-B0_).
+Explore more astounding sound effects by visiting our [YouTube channel](https://www.youtube.com/playlist?list=PLwEbW4bdYBSC8exiJ9PfzufGND_14f--C).
