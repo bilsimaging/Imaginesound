@@ -9,6 +9,7 @@ from diffusers import DiffusionPipeline
 import google.generativeai as genai
 from pathlib import Path
 
+#there is an issue at this stage
 
 # Load environment variables from .env file
 load_dotenv()
